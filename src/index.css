@@ -1,0 +1,14 @@
+nav{
+  font-size: 30px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 30px;
+  background-color: aquamarine;
+
+}
+div{
+  height: 640px;
+  width: 100%;
+  background-image: linear-gradient(white, red, black);
+}
